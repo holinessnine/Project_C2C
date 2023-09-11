@@ -1,0 +1,9 @@
+.user-info {
+  width: 66%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  display: flex;
+  gap : 70%;
+}

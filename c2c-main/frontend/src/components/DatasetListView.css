@@ -1,0 +1,27 @@
+.ListViewContainerDetail{
+  grid-row: 2;
+  justify-self: start;
+  width: 100%;
+  margin-top: 7px;
+}
+.datagrid {
+  display: flex;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #259a6d;
+  align-items: center;
+  justify-content: center;
+}
+.MuiTablePagination-selectLabel {
+  margin-top: 13px;
+}
+.MuiTablePagination-displayedRows {
+  margin-top: 15px;
+}
+.headerStyles {
+  background: gray;
+  font-weight: bold;
+  font-size: 8px;
+};
